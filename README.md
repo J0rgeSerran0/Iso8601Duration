@@ -11,6 +11,9 @@ The format of a lexical representation is:
 > PnYnMnDTnHnMnS
 
 
+# NuGet - Iso8601Duration
+(Compatible for .NET Framework v4.6.1 or greater, and .NET Core 2.0 or greater)
+
 <img src="https://raw.githubusercontent.com/NuGet/Home/dev/resources/nuget.png" alt="NuGet" width="94" height="29" />
 
 [Iso8601Duration Converter - v1.0.0](https://www.nuget.org/packages/Iso8601Duration/)

@@ -10,7 +10,6 @@ You can find more information about the ISO 8601 and the lexical reprentation in
 The format of a lexical representation is:
 > PnYnMnDTnHnMnS
 
->
 
 <img src="https://www.nuget.org/Content/gallery/img/logo-header.svg" alt="NuGet" width="94" height="29" />
 

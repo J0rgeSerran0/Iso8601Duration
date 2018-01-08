@@ -11,7 +11,7 @@ The format of a lexical representation is:
 > PnYnMnDTnHnMnS
 
 
-<img src="https://www.nuget.org/Content/gallery/img/logo-header.svg" alt="NuGet" width="94" height="29" />
+<img src="https://raw.githubusercontent.com/NuGet/Home/dev/resources/nuget.png" alt="NuGet" width="94" height="29" />
 
 [Iso8601Duration Converter - v1.0.0](https://www.nuget.org/packages/Iso8601Duration/)
 

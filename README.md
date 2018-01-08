@@ -2,7 +2,7 @@
 
 <img src="https://docs.microsoft.com/es-es/dotnet/images/hub/csharp.svg" alt="C#" width="150" height="150" />
 
-ISO 8601 :: C# library to convert a duration pattern in a TimeSpan object and vice versa.
+ISO 8601 :: C# library that converts Duration Patterns from the ISO 8601 and resolves limitations with the convertion with System.Xml.
 
 You can find more information about the ISO 8601 and the lexical reprentation in the next link.
 [ISO 8601 - Lexical Representation - Duration](https://www.w3.org/TR/xmlschema-2/#duration)
@@ -10,6 +10,9 @@ You can find more information about the ISO 8601 and the lexical reprentation in
 The format of a lexical representation is:
 > PnYnMnDTnHnMnS
 
+
+<img src="https://www.nuget.org/Content/gallery/img/logo-header.svg" alt="NuGet" width="94" height="29" />
+[Iso8601Duration Converter - v1.0.0](https://www.nuget.org/packages/Iso8601Duration/)
 
 
 ## List of the Library Structs

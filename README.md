@@ -19,7 +19,7 @@ The format of a lexical representation is:
 [Iso8601Duration Converter - v1.0.0](https://www.nuget.org/packages/Iso8601Duration/)
 
 
-## List of the Library Structs
+## Structs
 
 - [x] [`DurationStruct`](#durationstruct)
 
@@ -40,7 +40,7 @@ public int Seconds;
 
 
 
-## List of the Library Method's
+## Method's
 
 - [x] [`NormalizeDuration`](#normalizeduration)
 - [x] [`ToDurationStruct`](#todurationstruct)
